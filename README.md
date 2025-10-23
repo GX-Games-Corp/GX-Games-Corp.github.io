@@ -1,2 +1,2 @@
-# xxj0nxx.github.io
-My Github Pages Site
+# GX-GamesCorp.github.io
+A Github Pages Site Owned By xXJ0NXx
